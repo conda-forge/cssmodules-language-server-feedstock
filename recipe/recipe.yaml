@@ -1,5 +1,5 @@
 context:
-  version: "1.5.1"
+  version: "1.5.2"
 
 package:
   name: cssmodules-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/cssmodules-language-server/-/cssmodules-language-server-${{ version }}.tgz
-  sha256: f2c5fd30f06d34e2eb374ed757f9259d3a94899c4211a965691dab21fc2e9559
+  sha256: 8e85c03ec0c87feb1ad4500cce95d56c629b4cbd1b75ce8b5b1cb59762aa9632
 
 build:
   number: 0
